@@ -1,0 +1,7 @@
+{
+  "name": "bad-css-selectors",
+  "version": "0.0.1",
+  "dependencies": {
+    "css": "^2.2.1"
+  }
+}
